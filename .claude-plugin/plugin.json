@@ -1,0 +1,12 @@
+{
+  "name": "secure-dockerfile",
+  "description": "Dockerfile security auditing, hardening, and generation — reduce image size, eliminate vulnerabilities, follow best practices across three security tiers",
+  "version": "0.1.0",
+  "author": {
+    "name": "Brandon Caldwell",
+    "url": "https://github.com/brandonrc"
+  },
+  "repository": "https://github.com/brandonrc/secure-that-dockerfile",
+  "license": "MIT",
+  "keywords": ["dockerfile", "security", "containers", "hardening", "stig", "devops", "docker"]
+}
