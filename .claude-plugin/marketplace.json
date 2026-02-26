@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "secure-dockerfile",
+  "description": "Dockerfile security auditing, hardening, and generation",
+  "owner": {
+    "name": "Brandon Caldwell",
+    "url": "https://github.com/brandonrc"
+  },
+  "plugins": [
+    {
+      "name": "secure-dockerfile",
+      "description": "Dockerfile security auditing, hardening, and generation — reduce image size, eliminate vulnerabilities, follow best practices across three security tiers",
+      "version": "0.1.0",
+      "author": {
+        "name": "Brandon Caldwell",
+        "url": "https://github.com/brandonrc"
+      },
+      "source": ".",
+      "category": "development"
+    }
+  ]
+}
