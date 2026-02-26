@@ -5,9 +5,14 @@ A Claude Code plugin that helps you create, audit, and harden Dockerfiles. Reduc
 ## Installation
 
 ```bash
-# In Claude Code, install from GitHub
-/install-plugin https://github.com/brandonrc/secure-that-dockerfile
+# Step 1: Add the marketplace
+/plugin marketplace add brandonrc/secure-that-dockerfile
+
+# Step 2: Open plugin manager and install
+/plugin
 ```
+
+Then go to the **Discover** tab, find **secure-dockerfile**, and install it.
 
 ## Commands
 
